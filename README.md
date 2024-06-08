@@ -29,5 +29,6 @@ I am a young Moroccan boy 🇲🇦 who loves computers and wants to learn everyt
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,react,svelte,nodejs,java,spring,androidstudio,c,cpp,arduino,bash,firebase,flutter,php,laravel,linux,figma,git,&perline=7)](https://skillicons.dev)
 
+<!--
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/abdellatifAhammad/abdellatifAhammad/master/bg.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/abdellatifAhammad/abdellatifAhammad/master/bg.jpg');]{x0000}$}-->
